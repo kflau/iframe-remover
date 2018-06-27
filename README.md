@@ -15,7 +15,7 @@ Open browser console and paste the app.js content. 👇Press Enter.
 
 ## Compare
 
-Some websites may use <iframe> to inject external content like ads and debugger breakpoints, causing multiple threads spawned.
+Some websites may use <iframe> to inject external content like ads and debugger breakpoints, or even spawn threads.
 
 ![Before Threads](/images/before-threads.png)
 
