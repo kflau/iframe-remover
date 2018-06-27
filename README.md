@@ -9,6 +9,10 @@ This javascript snippet helps remove iframe.
 
 Simple yet powerful.😝
 
+## Getting Started
+
+Open browser console and paste the app.js content. Press Enter.
+
 ## Compare
 
 Some websites may use iframe to inject external content like ads, causing multiple threads spawned.
