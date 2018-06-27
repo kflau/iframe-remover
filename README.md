@@ -11,7 +11,7 @@ Simple yet powerful.😝
 
 ## Getting Started
 
-Open browser console and paste the app.js content. Press Enter.
+Open browser console and paste the app.js content. 👇Press Enter.
 
 ## Compare
 
