@@ -1,3 +1,3 @@
-var div = document.getElementsByTagName("iframe");
-var list = Array.prototype.slice.call(div);
+const div = document.getElementsByTagName("iframe");
+const list = Array.prototype.slice.call(div);
 list.forEach(function(a){a.parentNode.removeChild(a);});
